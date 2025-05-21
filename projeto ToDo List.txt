@@ -16,3 +16,8 @@ Que tal a gente criar uma ToDo List Completa com:
 - Buscar tarefa (filtrar a lista)
 
 - Testar funcionalidades básicas (simples testes no código)
+
+
+
+ - colocar um plano de fundo que identifique manhã, tarde e noite (import)
+ 
