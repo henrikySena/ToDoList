@@ -1,0 +1,81 @@
+""# Plano de Estudo - JavaScript Vanilla
+
+## Objetivo:
+
+Fortalecer a habilidade de escrever código JavaScript sem auxílio externo, focando no desenvolvimento de lógica, manipulação de DOM e conceitos fundamentais.
+
+---
+
+## Estrutura:
+
+1️⃣ **Semana 1 - Fundamentos e Lógica de Programação**
+
+* Variáveis (let, const, var)
+* Tipos de Dados (string, number, boolean, object, array)
+* Estruturas de Controle (if, else, switch)
+* Loops (for, while, do...while)
+* Funções (declarativas, expressões e arrow functions)
+
+**Atividades:**
+
+* Criar mini-desafios diários, como:
+
+  * Verificar se um número é par ou ímpar.
+  * Somar todos os valores de um array.
+  * Manipular strings (caixa alta, substituição de caracteres).
+
+---
+
+2️⃣ **Semana 2 - Manipulação de Arrays e Objetos**
+
+* Métodos de Array (map, filter, reduce, forEach, find)
+* Adicionar, remover e buscar elementos em arrays
+* Objetos: propriedades, métodos e loops (for...in)
+
+**Atividades:**
+
+* Implementar um CRUD simples em um array de objetos.
+* Ordenar e filtrar listas de objetos.
+* Simular uma lista de tarefas (ToDo List).
+
+---
+
+3️⃣ **Semana 3 - Manipulação de DOM**
+
+* Selecionar elementos do DOM
+* Adicionar e remover classes
+* Manipular atributos e propriedades
+* Eventos (click, change, submit, etc.)
+
+**Atividades:**
+
+* Criar um contador dinâmico.
+* Desenvolver uma lista de tarefas que renderiza no HTML.
+* Construir um pequeno formulário que mostra os dados no DOM.
+
+---
+
+4️⃣ **Semana 4 - Projeto Integrado**
+
+* Desenvolver um projeto simples sem ajuda de IA, usando os conceitos aprendidos.
+* Sugestões:
+
+  * Calculadora
+  * Lista de compras
+  * Conversor de moedas
+
+---
+
+## Regras:
+
+* Para cada desafio, tente ao máximo resolver sozinho.
+* Documentar cada parte do processo para entender o raciocínio.
+* Caso trave, busque entender o erro antes de pedir ajuda.
+* A cada semana, revisar os conceitos antes de avançar.
+
+---
+
+### Meta Final:
+
+Ao final do plano, você deve se sentir confortável para criar aplicações simples em JavaScript Vanilla, identificando problemas e desenvolvendo soluções de forma independente.
+""

@@ -1,0 +1,18 @@
+Que tal a gente criar uma ToDo List Completa com:
+
+
+- Adicionar, editar, remover tarefas (manipulação do DOM e eventos)
+
+- Marcar tarefa como concluída (toggle de classes)
+
+- Salvar e carregar tarefas do localStorage (persistência)
+
+- Usar Promises / async para simular uma API (mostrar async/await)
+
+- Modularizar o código (import/export)
+
+- Usar classes para organizar tarefas e lista (orientação a objetos)
+
+- Buscar tarefa (filtrar a lista)
+
+- Testar funcionalidades básicas (simples testes no código)
